@@ -1,0 +1,4 @@
+D:\codeit\test\credit_tree\bin\Debug\netcoreapp3.1\credit_tree.exe
+D:\codeit\test\credit_tree\obj\Debug\netcoreapp3.1\credit_tree.csprojAssemblyReference.cache
+D:\codeit\test\credit_tree\obj\Debug\netcoreapp3.1\credit_tree.AssemblyInfoInputs.cache
+D:\codeit\test\credit_tree\obj\Debug\netcoreapp3.1\credit_tree.AssemblyInfo.cs
